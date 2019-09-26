@@ -76,7 +76,7 @@ body {
 }
 
 .post-date:nth-child(even) {
-  color: white;
+  color: #555;
 }
 
 h1, h2, h3, h4 {
