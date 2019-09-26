@@ -123,5 +123,5 @@ a:hover {
 }
 
 .post-container:nth-child(even) {
-  background-color: lightgrey;
+  background-color: #D1D1D1;
 }
