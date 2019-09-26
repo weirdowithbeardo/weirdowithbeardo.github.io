@@ -112,3 +112,16 @@ a {
 a:hover {
   color: #F6A623;
 }
+
+.anout {
+  text-align: center;
+}
+
+.post-author img,
+.about-author img {
+  border-radius: 50px;
+}
+
+.post-container nth-child(even) {
+  background-color: lightgrey;
+}
