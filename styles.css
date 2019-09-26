@@ -75,10 +75,6 @@ body {
   letter-spacing: 0.1em;
 }
 
-.post-date:nth-child(even) {
-  color: #555;
-}
-
 h1, h2, h3, h4 {
   color: #333;
 }
@@ -127,5 +123,9 @@ a:hover {
 }
 
 .post-container:nth-child(even) {
-  background-color: #D1D1D1;
+  background-color: lightgrey;
+}
+
+.post-date:nth-child(even) {
+  color: #555;
 }
